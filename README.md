@@ -24,7 +24,7 @@ This project implements an end-to-end data processing pipeline for casino perfor
 ## final.ipynb 
 * Uses mostly pandas, numpy, and datetime libraries in order to load, transform and produce the final output.
 
-* ## roadmap.ipynb 
+## roadmap.ipynb 
 * Is the same as final.ipynd but more analytical in order to present the way of exploring and analyzing new data. It its not made for production levels.
 
 ## duckdb.ipynb 
