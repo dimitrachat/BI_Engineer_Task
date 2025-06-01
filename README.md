@@ -1,7 +1,7 @@
 # BI_Engineer_Task
-Casino Data Analysis Pipeline
+## Casino Data Analysis Pipeline
 
-Description
+## Description
 This project implements an end-to-end data processing pipeline for casino performance analytics. It cleanses, transforms, and enriches raw casino transaction data with user demographics, currency conversions, and provider information to produce production-ready business intelligence.
 
 Key features:
