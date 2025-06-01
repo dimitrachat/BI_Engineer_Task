@@ -28,8 +28,3 @@ This project implements an end-to-end data processing pipeline for casino perfor
 * currencyrates.csv: Daily exchange rates
 
 * users.csv: Player demographic data
-
-Code Files
-casino_data_pipeline.ipynb: Jupyter notebook containing the complete ETL pipeline
-
-requirements.txt: Python dependencies (optional)
