@@ -19,15 +19,15 @@ This project implements an end-to-end data processing pipeline for casino perfor
 ## Files
 ## Data Files
 
-( - ) casinodaily.csv: Daily casino transaction records
+* casinodaily.csv: Daily casino transaction records
 
-( - ) casinomanufacturers.csv: Manufacturer hierarchy data
+* casinomanufacturers.csv: Manufacturer hierarchy data
 
-( - ) casinoproviders.csv: Game provider information
+* casinoproviders.csv: Game provider information
 
-( - ) currencyrates.csv: Daily exchange rates
+* currencyrates.csv: Daily exchange rates
 
-( - ) users.csv: Player demographic data
+* users.csv: Player demographic data
 
 Code Files
 casino_data_pipeline.ipynb: Jupyter notebook containing the complete ETL pipeline
