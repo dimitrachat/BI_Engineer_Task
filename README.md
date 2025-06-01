@@ -7,21 +7,16 @@ This project implements an end-to-end data processing pipeline for casino perfor
 ## Key features:
 
   1. Robust data cleaning and type conversion
-  
-  2. Multi-currency normalization to EUR
-  
-  3. User age group categorization
-  
-  4. Manufacturer/provider hierarchy resolution
-  
-  5. Gold-level table preparation for analytics
+  2. Currency conversion to EUR
+  3. User Age Group categorization
+  4. Gold-level table preparation for analytics
 
 ## Files
 ## Data Files
 
 * casinodaily.csv: Daily casino transaction records
 
-* casinomanufacturers.csv: Manufacturer hierarchy data
+* casinomanufacturers.csv: Manufacturer data
 
 * casinoproviders.csv: Game provider information
 
